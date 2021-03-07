@@ -6,6 +6,10 @@ public class TestSimpleCircle{
         System.out.println(sc.radius);
         sc.setRadius(10.0);
         System.out.println(sc.radius);
+        SimpleCircle sc2 = new SimpleCircle(18.0);
+        System.out.println(sc2.radius);
+        sc2.setRadius(2.0);
+        System.out.println(sc2.radius);
 
     }
 }
