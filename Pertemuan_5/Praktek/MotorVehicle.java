@@ -4,9 +4,9 @@ public class MotorVehicle extends Vehicle{
     public String licensePlate="H 1 IDN";
 
     public MotorVehicle(){}
-    public MotorVehicle(int sizeOfEngine,String licensePlate){
-        this.sizeOfEngine = sizeOfEngine;
-        this.licensePlate = licensePlate;
+    public MotorVehicle(int sizeEng,String lcPlate){
+        this.sizeOfEngine = sizeEng;
+        this.licensePlate = lcPlate;
     }
 
     public int getSizeOfEngine(){
