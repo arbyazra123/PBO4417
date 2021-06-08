@@ -7,7 +7,7 @@ package beratidealdemo;
 
 /**
  *
- * @author Lenovo
+ * @author arbyazra
  */
 public class FormMenu extends javax.swing.JFrame {
 
